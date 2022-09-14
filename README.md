@@ -3,4 +3,5 @@
 ## Какое настроение у вас?
 * веселное:stuck_out_tongue_winking_eye:
 * грустное:sweat:
-* осенне:high_brightness:
+* осенне:high_brightness::moneybag:
+* спортивное 
